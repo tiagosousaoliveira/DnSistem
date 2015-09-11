@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/operacional/!svn/ver/2122/scoe/WebContent/WEB-INF/lib
+END
+spring-beans-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-beans-3.0.4.RELEASE.jar
+END
+jasperreports-3.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/jasperreports-3.5.3.jar
+END
+jstl-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/jstl-1.0.4.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/jstl.jar
+END
+commons-digester-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/commons-digester-2.0.jar
+END
+slf4j-simple-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/slf4j-simple-1.5.6.jar
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/cglib.jar
+END
+mockito-all-1.8.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/operacional/!svn/ver/1855/scoe/WebContent/WEB-INF/lib/mockito-all-1.8.5.jar
+END
+jboss-archive-browsing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/jboss-archive-browsing.jar
+END
+hibernate-commons-annotations-3.1.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/hibernate-commons-annotations-3.1.0.GA.jar
+END
+tempfile.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.tmp
+END
+hibernate-c3p0-3.3.2.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/hibernate-c3p0-3.3.2.GA.jar
+END
+log4j-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/log4j-1.2.13.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/aopalliance-1.0.jar
+END
+asm-attrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/asm-attrs.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/jta-1.1.jar
+END
+spring-web.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/spring-web.jar
+END
+spring-expression-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-expression-3.0.4.RELEASE.jar
+END
+commons-dbcp-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/commons-dbcp-1.2.2.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/asm.jar
+END
+mail-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/mail-1.4.1.jar
+END
+spring-webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/spring-webmvc.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/commons-collections-3.1.jar
+END
+ejb3-persistence-1.0.2.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/ejb3-persistence-1.0.2.GA.jar
+END
+hibernate-core-3.3.0.SP1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/operacional/!svn/ver/1944/scoe/WebContent/WEB-INF/lib/hibernate-core-3.3.0.SP1.jar
+END
+tempfile.2.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.2.tmp
+END
+tempfile.3.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.3.tmp
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+tempfile.4.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.4.tmp
+END
+tempfile.5.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.5.tmp
+END
+tempfile.6.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.6.tmp
+END
+spring-aop-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-aop-3.0.4.RELEASE.jar
+END
+tempfile.7.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/tempfile.7.tmp
+END
+itext-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/itext-2.1.7.jar
+END
+tomahawk-facelets-1.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/tomahawk-facelets-1.1.6.jar
+END
+commons-beanutils-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar
+END
+postgresql-8.4-701.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/postgresql-8.4-701.jdbc4.jar
+END
+jtds-1.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/jtds-1.2.4.jar
+END
+richfaces-ui-3.3.2.SR1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/richfaces-ui-3.3.2.SR1.jar
+END
+spring-2.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-2.5.6.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar
+END
+spring-tx-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-tx-3.0.4.RELEASE.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+jsf-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/jsf-impl.jar
+END
+hibernate-annotations-3.4.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/operacional/!svn/ver/1832/scoe/WebContent/WEB-INF/lib/hibernate-annotations-3.4.0.GA.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/operacional/!svn/ver/1843/scoe/WebContent/WEB-INF/lib/ojdbc14.jar
+END
+envers-1.2.2.ga-hibernate-3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/operacional/!svn/ver/1832/scoe/WebContent/WEB-INF/lib/envers-1.2.2.ga-hibernate-3.3.jar
+END
+richfaces-impl-3.3.2.SR1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/richfaces-impl-3.3.2.SR1.jar
+END
+hibernate-entitymanager-3.4.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/operacional/!svn/ver/1832/scoe/WebContent/WEB-INF/lib/hibernate-entitymanager-3.4.0.GA.jar
+END
+spring-orm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/spring-orm.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/activation-1.1.jar
+END
+javassist-3.4.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/javassist-3.4.GA.jar
+END
+cageceSeguranca.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/operacional/!svn/ver/1843/scoe/WebContent/WEB-INF/lib/cageceSeguranca.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/standard.jar
+END
+oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/oro-2.0.8.jar
+END
+richfaces-api-3.3.2.SR1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/richfaces-api-3.3.2.SR1.jar
+END
+jsf-facelets.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/jsf-facelets.jar
+END
+spring-core-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-core-3.0.4.RELEASE.jar
+END
+hibernate-validator-3.1.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/operacional/!svn/ver/1944/scoe/WebContent/WEB-INF/lib/hibernate-validator-3.1.0.GA.jar
+END
+ehcache-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/ehcache-1.2.3.jar
+END
+tomahawk12-1.1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/tomahawk12-1.1.8.jar
+END
+commons-pool-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/commons-pool-1.4.jar
+END
+xml-apis-1.0.b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/xml-apis-1.0.b2.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/antlr-2.7.6.jar
+END
+slf4j-api-1.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/slf4j-api-1.4.2.jar
+END
+jsf-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/operacional/!svn/ver/1981/scoe/WebContent/WEB-INF/lib/jsf-api.jar
+END
+testng-5.14.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/operacional/!svn/ver/1855/scoe/WebContent/WEB-INF/lib/testng-5.14.2.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/commons-lang-2.5.jar
+END
+servlet-api-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/servlet-api-2.5.jar
+END
+commons-net-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/operacional/!svn/ver/2122/scoe/WebContent/WEB-INF/lib/commons-net-1.2.2.jar
+END
+spring-context-support.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/spring-context-support.jar
+END
+spring-asm-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-asm-3.0.4.RELEASE.jar
+END
+groovy-all-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/operacional/!svn/ver/1829/scoe/WebContent/WEB-INF/lib/groovy-all-1.5.5.jar
+END
+slf4j-log4j12-1.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/slf4j-log4j12-1.4.2.jar
+END
+spring-context-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/operacional/!svn/ver/1922/scoe/WebContent/WEB-INF/lib/spring-context-3.0.4.RELEASE.jar
+END
